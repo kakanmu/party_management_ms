@@ -1,0 +1,164 @@
+{
+    "industries": [
+    {
+      "name": "Aerospace",
+      "description": ""
+    },
+    {
+      "name": "Agriculture",
+      "description": ""
+    },
+    {
+      "name": "Automotive",
+      "description": ""
+    },
+    {
+      "name": "Biotechnology",
+      "description": ""
+    },
+    {
+      "name": "Cargo & Freight",
+      "description": ""
+    },
+    {
+      "name": "Cause",
+      "description": ""
+    },
+    {
+      "name": "Chemical",
+      "description": ""
+    },
+    {
+      "name": "College & University",
+      "description": ""
+    },
+    {
+      "name": "Community Organization",
+      "description": ""
+    },
+    {
+      "name": "Community Services",
+      "description": ""
+    },
+    {
+      "name": "Computer",
+      "description": ""
+    },
+    {
+      "name": "Consulting Agency",
+      "description": ""
+    },
+    {
+      "name": "Education",
+      "description": ""
+    },
+    {
+      "name": "Energy",
+      "description": ""
+    },
+    {
+      "name": "Finance",
+      "description": ""
+    },
+    {
+      "name": "Food & Beverage",
+      "description": ""
+    },
+    {
+      "name": "Government Organization",
+      "description": ""
+    },
+    {
+      "name": "Health/Beauty",
+      "description": ""
+    },
+    {
+      "name": "Industrial",
+      "description": ""
+    },
+    {
+      "name": "Insurance",
+      "description": ""
+    },
+    {
+      "name": "Internet",
+      "description": ""
+    },
+    {
+      "name": "Labor Union",
+      "description": ""
+    },
+    {
+      "name": "Legal",
+      "description": ""
+    },
+    {
+      "name": "Media/News",
+      "description": ""
+    },
+    {
+      "name": "Medical",
+      "description": ""
+    },
+    {
+      "name": "Middle School",
+      "description": ""
+    },
+    {
+      "name": "Mining",
+      "description": ""
+    },
+    {
+      "name": "Non-Governmental Organization",
+      "description": ""
+    },
+    {
+      "name": "Non-Profit Organization",
+      "description": ""
+    },
+    {
+      "name": "Organization",
+      "description": ""
+    },
+    {
+      "name": "Political Organization",
+      "description": ""
+    },
+    {
+      "name": "Political Party",
+      "description": ""
+    },
+    {
+      "name": "Preschool",
+      "description": ""
+    },
+    {
+      "name": "Religious Organization",
+      "description": ""
+    },
+    {
+      "name": "Retail",
+      "description": ""
+    },
+    {
+      "name": "School",
+      "description": ""
+    },
+    {
+      "name": "Science, Technology & Engineering",
+      "description": ""
+    },
+    {
+      "name": "Telecommunication",
+      "description": ""
+    },
+    {
+      "name": "Tobacco",
+      "description": ""
+    },
+    {
+      "name": "Travel",
+      "description": ""
+    }
+  ]
+}
