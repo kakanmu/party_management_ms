@@ -1,0 +1,46 @@
+# IDEs
+.idea
+.vscode
+
+# Python related
+__*
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+reports/*
+report-task.txt
+
+# Django stuff:
+*.log
+.static_storage/
+.media/
+local_settings.py
+migrations/
+assets/
+media/
+
+
+# celery beat schedule file
+celerybeat-schedule
+celery.logs
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+party_data_management_ms/.env
+.sonarlint
+
+
